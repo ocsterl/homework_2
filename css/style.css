@@ -22,7 +22,7 @@ img {
     margin-right: auto;
 }
 div {
-    height: 150px;
+    min-height: 150px;
     padding: 25px;
 }
 #red {
@@ -52,4 +52,6 @@ footer p {
     text-align: right;
     padding-top: 0px;
     padding-left: 0px;
+    padding-bottom: 10px;
+    padding-right: 10px;
 }
